@@ -1,30 +1,30 @@
 {
-    "name": "gitex",
-    "version": "1.0.1",
-    "description": "Gitex is Git Command Explorer. Find the Git commands right in your terminal",
-    "main": "./lib/app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "bin": {
-        "gitex": "./bin/global.js"
-    },
-    "preferGlobal": true,
-    "author": "saud-chougle",
-    "license": "MIT",
-    "dependencies": {
-        "inquirer": "^7.0.4"
-    },
-    "keywords": [
-        "gitexplorercli",
-        "git-explorer-cli",
-        "gitex"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Chougle-saud/gitex.git"
-    },
-    "bugs": {
-        "url": "https://github.com/Chougle-saud/gitex.git/issues"
-    }
+  "name": "gitex",
+  "version": "1.0.3",
+  "description": "Gitex is Git Command Explorer. Find the Git commands right in your terminal",
+  "main": "./lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gitex": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "author": "saud-chougle",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  },
+  "keywords": [
+    "gitexplorercli",
+    "git-explorer-cli",
+    "gitex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chougle-saud/gitex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chougle-saud/gitex.git/issues"
+  }
 }
