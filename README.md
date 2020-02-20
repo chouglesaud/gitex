@@ -30,6 +30,6 @@ npm install gitex -g
 
 run `gitex` in terminal
 
-![how to use](https://media.giphy.com/media/XAxzvhMhGCAPiOCKTU/giphy.gif)
+![how to use](https://res.cloudinary.com/codebond/image/upload/v1582196593/rivbktskcnwdxrombyu3.gif)
 
 [twitter: chouglesaud](https://twitter.com/chouglesaud)
