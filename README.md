@@ -10,7 +10,7 @@ Gitex helps to find Git Command right in your terminal.
 
 ## Why i build?
 
-[Addy Osmani](https://twitter.com/addyosmani/status/1228974800187658241) recently shared an amazing tool [git explorer](https://gitexplorer.com) which i found helpful i thought it would be great if i make cli of this because at the end git command used in terminal.
+[Addy Osmani](https://twitter.com/addyosmani/status/1228974800187658241) recently shared an amazing tool [git explorer](https://gitexplorer.com) which i found helpful i thought it would be great if i make cli of this.
 
 ## How to install
 
